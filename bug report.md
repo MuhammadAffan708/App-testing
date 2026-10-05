@@ -8,7 +8,7 @@
 | **Platform** | Android |
 | **Device** | Tecno Camon 19 Neo |
 | **OS Version** | Android 13 |
-| **Module** | UI / Branding |
+| **Module** | UI  |
 | **Type** | UI/UX |
 | **Severity** | Low |
 | **Priority** | Low |
@@ -43,10 +43,8 @@ Use a light-coloured logo or add an outline/gradient so the symbol stands out ag
 
 ## Evidence
 
+<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/ba6ba5e3-05cf-4dad-a63f-c6ffe8fd51b8" />
 
-
-![BUG-001 home screen icon](<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/ba6ba5e3-05cf-4dad-a63f-c6ffe8fd51b8" />
-)
 
 # BUG-002: App name inconsistent between Play Store and device
 
@@ -58,12 +56,12 @@ Use a light-coloured logo or add an outline/gradient so the symbol stands out ag
 | **Platform** | Android |
 | **Device** | Tecno Camon 19 Neo |
 | **OS Version** | Android 13 |
-| **Module** | UI / Branding |
+| **Module** | UI  |
 | **Type** | UI/UX |
 | **Severity** | Low |
 | **Priority** | Low |
 | **Status** | Open |
-| **Date Tested** | [DD-MM-YYYY] |
+| **Date Tested** | 05-10-2026 |
 
 ## Description
 
@@ -91,9 +89,8 @@ Users may be unsure they installed the right app, and the inconsistent branding 
 Use one consistent app name, or a clear short name derived from the store title.
 
 ## Evidence
+<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/632cd1ad-3330-4264-a700-6b340d07af74" />
 
-![BUG-002 Play Store listing](<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/632cd1ad-3330-4264-a700-6b340d07af74" />
-)
 
  
 
